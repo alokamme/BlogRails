@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple blog based on Rails 5 with following features.
+
 
 Things you may want to cover:
 
